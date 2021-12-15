@@ -1,5 +1,5 @@
-#Projeto da Disciplina de Persistência de Objetos - TSI - IFPB
-#Professor Fausto Veras Maranhão Ayres
+</p>Projeto da Disciplina de PersistÃªncia de Objetos - TSI - IFPB</p>
+<p>Professor Fausto Veras MaranhÃ£o Ayres</p>
 
 <h2>integrantes:</h2>
 <ul>
